@@ -13,4 +13,8 @@ class TestingCalculator(unittest.TestCase):
         self.assertEqual(app.subtract(10, 5), 5)
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     unittest.main()
+=======
+    unittest.main()
+>>>>>>> bb7400f885a8a49a04d31591663dd5d527931ef1
