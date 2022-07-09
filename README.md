@@ -103,7 +103,7 @@ You can find more information and examples about filtering Lambda function logs 
 
 ## Unit tests
 
-Tests are defined in the `tests` folder in this project. Use PIP to install the [pytest](https://docs.pytest.org/en/latest/) and run unit tests.
+Tests are defined in the `tests` folder in this project. Use python -m unittest ./tests/unit/test_handler.py.
 
 ```bash
 calculator$ pip install pytest pytest-mock --user
